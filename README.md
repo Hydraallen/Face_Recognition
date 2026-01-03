@@ -1,4 +1,4 @@
-# Face-recognition
+# Face Recognition
 Play with Face recognition
 
 # Base
